@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "エターナルアリア",
+  "base_artist": "Adeliae",
+  "createdAt": "2026-03-02T18:44:07.190095Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エターナルアリア (feat. 初音ミク)",
+      "artist": "Adeliae",
+      "has_synced": true,
+      "path": "select/01_エターナルアリア_(feat._初音ミク)_Adeliae.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エターナルアリア - Eternal Aria (feat. Hatsune Miku)",
+      "artist": "Adeliae",
+      "has_synced": true,
+      "path": "select/02_エターナルアリア_-_Eternal_Aria_(feat._Hatsune_Miku)_Adeliae.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エターナルアリア (feat. 初音ミク)",
+      "artist": "Adeliae, 初音ミク",
+      "has_synced": true,
+      "path": "select/03_エターナルアリア_(feat._初音ミク)_Adeliae,_初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エターナルアリア (feat. 初音ミク)",
+      "artist": "Adeliae",
+      "has_synced": false,
+      "path": "select/pl_01_エターナルアリア_(feat._初音ミク)_Adeliae.txt"
+    }
+  ]
+}
